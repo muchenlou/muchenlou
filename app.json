@@ -3,7 +3,9 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/login/login",
-    "pages/classify/classify"
+    "pages/classify/classify",
+    "pages/sgin/sgin",
+    "pages/addClassify/addClassify"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -26,7 +28,7 @@
         "text": "练习"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/addClassify/addClassify",
         "text": "个人"
       }
     ]
