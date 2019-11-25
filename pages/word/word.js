@@ -12,4 +12,7 @@ Page({
       url: '../logs/logs'
     })
   }
+  , clickPractiec:function(event){
+    console.log(event)
+  }
 })
