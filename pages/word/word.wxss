@@ -1,8 +1,10 @@
 /**index.wxss**/
 .mcl-content{
-  width: 96%;
-  margin: 0 auto; 
+  width: 80%;
+  margin: 0 auto;
+  
   background-color: #fff;
+  position:relative;
 }
 .mcl-top{
   text-align: center;
@@ -25,20 +27,14 @@
   float: left;
 }
 .mcl-caozuo{
-  text-align: center;
+  width: 30%;
+  height: 25px;
+  line-height: 25px;
+  float: left;
+  text-align: center
 }
 .mcl-biaoti-1{
   width: 50%;
   float: left;
   text-align: center;
-}
-.mcl-practice{
-  background-color: #fff;
-}
-.mcl-test{
-  border-bottom: solid 1px #706b6b;
-  height: 80%;
-}
-.mcl-fill{
-  height: 10px;
 }

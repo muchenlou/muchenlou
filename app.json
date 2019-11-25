@@ -5,7 +5,12 @@
     "pages/login/login",
     "pages/classify/classify",
     "pages/sgin/sgin",
-    "pages/addClassify/addClassify"
+    "pages/addClassify/addClassify",
+    "pages/editClassify/editClassify",
+    "pages/word/word",
+    "pages/addWord/addWord",
+    "pages/editWord/editWord",
+    "pages/practiec/practiec"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -24,12 +29,16 @@
         "text": "分类"
       },
       {
-        "pagePath": "pages/login/login",
+        "pagePath": "pages/practiec/practiec",
         "text": "练习"
       },
       {
-        "pagePath": "pages/addClassify/addClassify",
-        "text": "个人"
+        "pagePath": "pages/word/word",
+        "text": "单词"
+      },
+      {
+       "pagePath": "pages/addWord/addWord",
+      "text": "个人"
       }
     ]
   },

@@ -1,0 +1,4 @@
+/* pages/editClassify/editClassify.wxss */
+.page__title{
+  padding-left: 8%;
+}

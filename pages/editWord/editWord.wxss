@@ -1,0 +1,4 @@
+/* pages/editWord/editWord.wxss */
+.page__title{
+  padding-left: 8%;
+}

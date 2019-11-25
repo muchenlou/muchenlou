@@ -1,3 +1,4 @@
+<!--pages/practiec/practiec.wxml-->
 <view class="page">
 <view class="mcl-title">欢迎来到沐小肥英语练习中心</view>
   <view class="mcl-content">

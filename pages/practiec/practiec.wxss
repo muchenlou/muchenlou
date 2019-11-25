@@ -1,4 +1,4 @@
-/**index.wxss**/
+/* pages/practiec/practiec.wxss */
 .mcl-content{
   width: 96%;
   margin: 0 auto; 
